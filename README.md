@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+## Article I Like
+
+[Why JavaScript is Hard to Learn](http://blog.thefirehoseproject.com/posts/why-is-javascript-so-hard-to-learn/)
